@@ -1,0 +1,76 @@
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="232.395px" height="232.85px" viewBox="128.931 30.241 232.395 232.85"
+     style="enable-background:new 128.931 30.241 232.395 232.85;" xml:space="preserve">
+<defs>
+      <linearGradient id="Gradient1">
+        <stop offset="0%" stop-color="#29799e"/>
+          <stop offset="100%" stop-color="#021823"/>
+      </linearGradient>
+    <style type="text/css">
+.st0{
+fill:#FFFFFF;
+}
+.st1{
+fill:url(#Gradient1);;
+}
+
+.st11, .st12, .st13, .st14, .st15, .st16 {
+-webkit-animation: fill 1s linear infinite;
+-o-animation: fill 1s linear infinite;
+-moz-animation: fill 1s linear infinite;
+animation: fill 1s linear infinite;
+}
+@keyframes fill{
+    0% { opacity:0.4; }
+    50% { opacity:0.7; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes fill{
+    0% { opacity:0.4; }
+    50% { opacity:0.7; }
+    100% { opacity:1; }
+}
+@-moz-keyframes fill{
+    0% { opacity:0.4; }
+    50% { opacity:0.7; }
+    100% { opacity:1; }
+}
+.st12{
+	-webkit-animation-delay: 0.2s;
+    animation-delay: 0.2s;
+}
+.st15{
+	-webkit-animation-delay: 0.4s;
+    animation-delay: 0.4s;
+}
+.st16 {
+	-webkit-animation-delay: 0.6s;
+    animation-delay: 0.6s;
+}
+.st14 {
+	-webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+}
+.st13 {
+	-webkit-animation-delay: 0.7s;
+    animation-delay: 0.7s;
+}
+
+</style>
+</defs>
+    <g id="Layer_1" class="st1">
+	<g>
+		<polygon class="st11" points="182.931,199.091 246.932,263.091 270.744,240.064 206.381,175.686 		"/>
+        <polygon class="st12" points="243.831,30.241 128.931,145.241 167.429,183.605 282.285,68.741 		"/>
+        <polygon class="st13" points="250,130.5 305.368,146.667 270.365,112.811 		"/>
+	</g>
+        <g>
+		<polygon class="st14" points="221.5,160.832 285.814,226.072 301.835,210.152 237.287,145.171 		"/>
+            <polygon class="st15" points="315.359,195.666 335.738,176.041 280.967,161.118 		"/>
+            <polygon class="st16" points="297.525,85.417 283.693,99.334 347.693,163.334 361.326,149.258 		"/>
+	</g>
+</g>
+    <path class="st0" d="M347.693,163.334l-7.14-7.137l0.001-0.002l-0.004-0.001l-56.969-56.947l13.943-13.832l-15.24-16.675
+	L167.429,183.605l15.503,15.486l23.424-23.237l64.388,64.21l15.07-13.992l-64.242-65.312l15.654-15.528l64.609,64.92l13.523-14.486
+	l-34.748-34.645l55.127,15.02L347.693,163.334z M251.615,130.958l18.35-18.203l34.507,33.201L251.615,130.958z"/>
+</svg>

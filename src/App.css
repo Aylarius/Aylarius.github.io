@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=B612:400,700|Montserrat:400&display=swap');
+
+html, body, #root {
+    height: 100%;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+}
+
+.b612 {
+    font-family: 'B612', sans-serif;
+}
+
+.social .list-group-item {
+    background-color: transparent;
+    border: none;
+    padding: 0.75rem;
+}
+
+.social .list-group-item a {
+    color: white;
+    font-size: 1.25rem;
+}
